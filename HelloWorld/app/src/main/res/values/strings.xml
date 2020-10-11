@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="name">Name</string>
+    <string name="bname">Button</string>
+    <string name="bClick">Button</string>
+    <string name="textview">TextView</string>
+    <string name="sname">Name</string>
+</resources>
